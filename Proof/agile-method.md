@@ -16,7 +16,7 @@ Agile is one of the most populair approaches to project management. However, the
 In the [group project](https://github.com/IOGPS3) we make use of the Scrum Framework.
 Scrum is an Agile Framework, that focusses on delivering small pieces of a product at a time. And by continuously experimenting and gathering feedback, to work as effectively as possible.
 
-![Scrum_Agile_events](https://user-images.githubusercontent.com/93530655/199485983-0eb100f4-52b6-47c5-a6d5-b3159a58967f.png)
+![Scrum_Agile_events](Proof/usedPictures/scrumExample.png)
 
 
 
