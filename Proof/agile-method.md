@@ -16,7 +16,7 @@ Agile is one of the most populair approaches to project management. However, the
 In the [group project](https://github.com/IOGPS3) we make use of the Scrum Framework.
 Scrum is an Agile Framework, that focusses on delivering small pieces of a product at a time. And by continuously experimenting and gathering feedback, to work as effectively as possible.
 
-![Scrum_Agile_events](Proof/usedPictures/scrumExample.png)
+![Scrum_Agile_events](usedPictures/scrumExample.png)
 
 
 
@@ -41,4 +41,4 @@ Using the right tools can make your work a lot easier. At the beginning of our p
 Eventually we chose to use Jira, as it is widely used by professional teams, and it also allows us to integrate our tasks with our GitHub Repositories.
 
 The backlog contains the user stories, and tasks that come with it.
-![image](![jiraBoardS3](https://github.com/LuukMaessen/PortfolioS3/assets/114981797/46d0a700-0296-466d-a8ae-a74cd2589757))
+![jiraBoardS3](usedPictures/jiraBoardS3.png)
