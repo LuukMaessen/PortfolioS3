@@ -36,7 +36,7 @@ The purpose of this portfolio is to demonstrate my personal achievements of this
 |Software quality| [🔗]()
 |Agile Method| [🔗]()
 |CI/CD| [🔗]()
-|Cultural differences and ethics| [🔗]()
+|Cultural differences and ethics| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/proof/cultural-differences-and-ethics.md)
 |Requirements and design| [🔗]()
 |Business processes| [🔗]()
 |Professional| [🔗]()
