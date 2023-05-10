@@ -29,17 +29,17 @@ The purpose of this portfolio is to demonstrate my personal achievements of this
 [Click here to view research documents]()
 
 ## Proof of Learning Outcomes
-[Click here]() for an overview of all learning outcomes for this semester.
+[Click here](https://github.com/LuukMaessen/PortfolioS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
-|Web Application| [🔗]()
-|Software quality| [🔗]()
-|Agile Method| [🔗]()
-|CI/CD| [🔗]()
+|Web Application| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/web-application.md)
+|Software quality| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/software-quality.md)
+|Agile Method| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/agile-method.md)
+|CI/CD| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/CI-CD.md)
 |Cultural differences and ethics| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/cultural-differences-and-ethics.md)
-|Requirements and design| [🔗]()
-|Business processes| [🔗]()
-|Professional| [🔗]()
+|Requirements and design| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/requirements-and-design.md)
+|Business processes| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/business-process.md)
+|Professional| [🔗](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/professional.md)
 
 ## Personal Learning Outcome Rating
 This is a personal  reflection on the learning outcomes for this semester.
