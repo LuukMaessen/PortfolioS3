@@ -41,4 +41,4 @@ Using the right tools can make your work a lot easier. At the beginning of our p
 Eventually we chose to use Jira, as it is widely used by professional teams, and it also allows us to integrate our tasks with our GitHub Repositories.
 
 The backlog contains the user stories, and tasks that come with it.
-![image]()
+![image](![jiraBoardS3](https://github.com/LuukMaessen/PortfolioS3/assets/114981797/46d0a700-0296-466d-a8ae-a74cd2589757))
