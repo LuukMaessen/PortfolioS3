@@ -18,15 +18,14 @@ It will include the projects, code and documentation from both my Individual Pro
 The purpose of this portfolio is to demonstrate my personal achievements of this semester, which are necessary to fulfill the learning outcomes.
 
 ## Project Organizations
-- [Individual Project]()
-- [Group Project]()
+- [Individual Project](https://github.com/LuukMaessen)
+- [Group Project](https://github.com/IOGPS3)
 
 ## Documentations
-- [Individual Project]()
-- [Group Project]()
+- [Individual Project](https://github.com/LuukMaessen/PortfolioS3/tree/main/Documentation)
 
 ## Research Documents
-[Click here to view research documents]()
+[Click here to view research documents](https://github.com/LuukMaessen/PortfolioS3/blob/main/Documentation/ResearchDocuments.md)
 
 ## Proof of Learning Outcomes
 [Click here](https://github.com/LuukMaessen/PortfolioS3/blob/main/LearningOutcomes.md) for an overview of all learning outcomes for this semester.
