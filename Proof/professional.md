@@ -10,9 +10,11 @@ When we plan to meet (online) with our Product Owners, we always plan in a meeti
 Another important aspect of our professionality with the stakeholders lies with Agile, and how we use it as a team. You can read more about our [Agile Process here](https://github.com/LuukMaessen/PortfolioS3/blob/main/Proof/agile-method.md).
 
 ## Professionalism within the group
-In order to work professionally within our group, we have [set up a collaboration contract]() and also a [defenition of done]() and a [defenition of ready]().
-The code of conduct is a series of rules, to make sure we can work together as smoothly as possible regarding our software developement.
-The group contract, is a series of rules, in which we have described our roles within the team, and also some rules about working together.
+In order to work professionally within our group, we have [set up a collaboration contract](https://github.com/LuukMaessen/PortfolioS3/blob/main/GPDocumentation/CollaborationContract.md) and also a [defenition of done](https://github.com/LuukMaessen/PortfolioS3/blob/main/GPDocumentation/DefenitionOfDone.md) and a [defenition of ready](https://github.com/LuukMaessen/PortfolioS3/blob/main/GPDocumentation/DefenitionOfReady.md).
+
+The collaboration contract is a series of rules, to make sure we can work together as smoothly as possible regarding our software developement, and also some rules about working together.
+The defenition of done, is a series of rules, that have to be included to mark work as done.
+The defenition of ready, is a series of rules, that have to be included to mark work as ready.
 
 The reason we've set up these documents is so we can work together better, and everyone knows what to expect from each other.
 
@@ -25,6 +27,6 @@ Some feedback I've gotten was that it's important to keep research papers writte
 
 ## Feedback
 Getting feedback about the proccess you've made is important to keep on the right track.
-For this reason I asked for feedback when i felt it was needed from teachers, and also other students in my class.
+For this reason I asked for feedback when I felt it was needed from teachers, and also other students in my class.
 I keep track of the feedback talks with my teachers through Feedpulse (a tool to track multiple feedback moments over time). After I've gotten feedback from a teacher, I write some notes on what we talked about, then the teacher can comment and give a smiley based on the progress I've made.
 
