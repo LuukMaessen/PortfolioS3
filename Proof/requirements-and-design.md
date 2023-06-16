@@ -9,8 +9,6 @@ Userstories and sprints are a part of our [Agile methology](https://github.com/L
 ## Eleborate designs
 In our group project we use Figma to make designs on our user interface. This way we are all on the same page when implementing new features. And this way we can also discuss our ideas on building the application with the Product Owners. 
 
-In the Individual Project I have made an [architectural design]().
-
 An important note about the designs is that they are always dynamic.
 
 ## Test Techniques
