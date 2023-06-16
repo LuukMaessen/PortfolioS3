@@ -1,8 +1,0 @@
-prefered platform: neither.
-house style document we will be sent later.
-authentication will be looked into more info on a later date.
-
-tickets should be 4-8 hours long not any longer.
-add unit-tests to estimation of the tickets.
-for next session try to have as much to show as possible to have to plan less meetings.
-backup contact person.
