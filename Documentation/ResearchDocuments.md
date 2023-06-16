@@ -1,7 +1,6 @@
 # Research Documents
 Here you can find research documents i made during the project.
 
-## How do we use OAuth 2.0 in our dashboard project?
 
 |Topic|Research Question|Link|
 |:----|:----------------|:--:|
