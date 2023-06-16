@@ -9,11 +9,10 @@ Below you can find a table of contents of all documentation.
 - [User-API](https://github.com/LuukMaessen/IPUserAPI)
 
 ## Documentation Contents
-- [Dashboard Idea]()
-- [Dashboard Architecture]()
+- [Project Idea]()
 - [Sprint Planning & Retrospective]()
 - [User Stories]() 
-- [Research Documents]()
+- [Research Documents](https://github.com/LuukMaessen/PortfolioS3/blob/main/Documentation/ResearchDocuments.md)
 - [Organization Repositories]()
 - [Front-End Documentation]()
 - [Back-End Documentation]()
